@@ -26,6 +26,18 @@ import javafx.scene.text.TextAlignment;
 import javafx.stage.Stage;
 import javafx.util.Duration;
 
+/*THIS IS THE CLASS CREATED BY Eflame-01. 
+ * IT USES THE FOLLOWING FILES CREATED BY HIS PROFESSOR:
+ *	
+ *	CoffeeDecorator()
+ *	Coffee()
+ *
+ *	BasicCoffee()
+ *	Cream()
+ *	ExtraShot()
+ *	Sugar()
+*/
+
 public class CoffeeShop extends Application {
 	//This is for the fade in animations
 	public FadeTransition fade = new FadeTransition();
